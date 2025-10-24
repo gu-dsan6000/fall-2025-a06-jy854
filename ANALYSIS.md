@@ -92,10 +92,10 @@ The script `problem2.py` analyzed Spark YARN application logs:
 - **Execution Times (Spark Web UI)**:  
   Below are screenshots from Spark Web UI confirming distributed execution:  
 
-  ![Spark Master](data/output/Spark-Master.png)  
+  ![Spark Master](Spark-Master.png)  
   *Spark Master overview: 3 workers alive, 6 cores in use, memory allocation shown.*  
 
-  ![Spark Job](data/output/Spark-Job.png)  
+  ![Spark Job](Spark-Job.png)  
   *Spark Job page: Active job listing 3,852 paths with progress bar and task distribution.*  
 
 - **Optimization Strategies**:
