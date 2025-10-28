@@ -630,3 +630,4 @@ Ensure your repository includes all deliverables listed above.
 ## License
 
 MIT License - See LICENSE file for details.
+.
